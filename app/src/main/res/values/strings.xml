@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample tests</string>
+    <string name="after_clicked_message">Text clicked</string>
+</resources>
